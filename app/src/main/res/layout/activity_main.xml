@@ -24,10 +24,10 @@
         android:layout_height="256dp"
         android:layout_alignEnd="@+id/lblTotal"
         android:layout_alignRight="@+id/lblTotal"
-        android:layout_below="@+id/lblTotal"
-        android:layout_marginEnd="125dp"
-        android:layout_marginRight="125dp"
-        android:layout_marginTop="201dp"
+        android:layout_below="@+id/imgCookie"
+        android:layout_marginEnd="154dp"
+        android:layout_marginRight="154dp"
+        android:layout_marginTop="8dp"
         android:src="@drawable/minion" />
 
 </RelativeLayout>
